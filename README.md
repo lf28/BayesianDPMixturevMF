@@ -1,10 +1,10 @@
 # BayesianDPMixturevMF
 This package implements a few Bayesian inference algorithms for von Mises Fisher based mixture models 
 
-Markup : * MvMF_inference.m: a Gibbs sampler for finite mixture of vMFs
-         * iMvMF_inference.m: a Gibbs sampler for infinite mixture or Dirichlet Process mixture of vMFs (Chinese restaurant process representation)
-         * Collapsed_iMvMF_inference.m: a Gibbs sampler for infinite mixture or Dirichlet Process mixture of vMFs with the mean vectors integrated 
-         * Collapsed_iMCIvMF_inference.m: a Gibbs sampler for infinite mixture of conditionally independent vMFs with the mean vectors integrated 
+* MvMF_inference.m: a Gibbs sampler for finite mixture of vMFs
+* iMvMF_inference.m: a Gibbs sampler for infinite mixture or Dirichlet Process mixture of vMFs (Chinese restaurant process representation)
+* Collapsed_iMvMF_inference.m: a Gibbs sampler for infinite mixture or Dirichlet Process mixture of vMFs with the mean vectors integrated 
+* Collapsed_iMCIvMF_inference.m: a Gibbs sampler for infinite mixture of conditionally independent vMFs with the mean vectors integrated 
 
 To get started, see demo.mlx
 
